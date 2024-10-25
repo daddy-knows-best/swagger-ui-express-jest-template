@@ -1,3 +1,4 @@
+```
 Seungs-Mac-Pro:swagger-ui-express-jest-template sajang$ npm init -y
 Wrote to /Users/sajang/tests/learning/swagger-ui-express-jest-template/package.json:
 
@@ -52,3 +53,4 @@ Seungs-Mac-Pro:swagger-ui-express-jest-template sajang$ cat package.json
   }
 }
 Seungs-Mac-Pro:swagger-ui-express-jest-template sajang$
+```
