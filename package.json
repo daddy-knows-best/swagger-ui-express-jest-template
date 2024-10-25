@@ -6,7 +6,7 @@
   "scripts": {
     "test": "jest",
     "start": "node index.js",
-    "dev": "nodemon -w .env index.js"
+    "dev": "nodemon -w .env -e js,yaml,jsx"
   },
   "keywords": [],
   "author": "",
