@@ -1,4 +1,4 @@
-# sui-express-jest-template
+# swagger-ui-express-jest-template
 
 ## History
 
