@@ -33,7 +33,7 @@ components:
       scheme: bearer
 
 paths:
-  /template:
+  /hello:
     get:
       tags:
         - String
